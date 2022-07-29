@@ -31,7 +31,8 @@
 ✅ Escrevendo arquivos.
 
 <div>
-  <img href="https://go.dev/" width="600" src="https://user-images.githubusercontent.com/64509839/181860144-5a173969-742a-4b6b-bf9c-b54bdeda4f10.gif" />
+  <a href="https://go.dev/">
+  <img width="600" src="https://user-images.githubusercontent.com/64509839/181860144-5a173969-742a-4b6b-bf9c-b54bdeda4f10.gif" />
 </div>
 
 ##
