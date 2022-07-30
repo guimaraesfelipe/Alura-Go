@@ -36,3 +36,17 @@
 </div>
 
 ##
+
+## Projeto 1 - Valida Site
+Aplicação desenvolvida em linguagem Go para validar URLs de site, realizando método GET HTTTP nos links, com o objetivo de receber o STATUS CODE e retornar uma mensagem em arquivo logs.txt com a situação de cada URL, e respectiva data e hora do log.
+
+## Conhecimentos
+⭐ *Syntax básica da linguagem Go.*
+
+⭐ *Utilização de loop FOR.*
+
+⭐ *Import e utilização de bibliotecas nativas da linguagem.*
+
+⭐ *Formatação de data e hora.*
+
+⭐ *Implementação de método HTTP GET.*
